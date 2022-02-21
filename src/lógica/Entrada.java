@@ -1,3 +1,5 @@
+package lógica;
+
 import java.util.Scanner;
 
 public class Entrada {

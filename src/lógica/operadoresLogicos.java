@@ -1,3 +1,5 @@
+package lógica;
+
 public class operadoresLogicos {
     public static void main(String[] args) {
 
